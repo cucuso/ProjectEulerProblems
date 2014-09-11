@@ -1,1 +1,1 @@
-My Project Euler problem solutions.
+My Project Euler solutions.
