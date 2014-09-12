@@ -24,6 +24,8 @@ Find the value of d < 1000 for which 1/d contains the longest recurring cycle in
  * 
  * 
  *
+ *
+ *Have to research pattern matching!
  */
 
 public class Problem26 {
