@@ -15,6 +15,10 @@ public class Test {
 		Test testy = new Test();
 		// int[] input={1,3,5,5};
 		// testy.problem18();
+		
+		Problem26 problem26 = new Problem26();
+		
+		problem26.problem26();
 
 	}
 
